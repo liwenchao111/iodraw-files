@@ -37,9 +37,6 @@
         <mxCell id="vssXqPWOVQydGvbCdSsN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-9" target="vssXqPWOVQydGvbCdSsN-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vssXqPWOVQydGvbCdSsN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-9" target="vssXqPWOVQydGvbCdSsN-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-9" value="拥塞梯度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="220" width="80" height="40" as="geometry" />
         </mxCell>
