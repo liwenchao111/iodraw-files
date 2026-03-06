@@ -19,7 +19,7 @@
         <mxCell id="vssXqPWOVQydGvbCdSsN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-4" target="vssXqPWOVQydGvbCdSsN-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vssXqPWOVQydGvbCdSsN-4" value="启动布线器获取拥塞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vssXqPWOVQydGvbCdSsN-4" value="启动全局布线器获取拥塞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="160" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-6" target="vssXqPWOVQydGvbCdSsN-26">
@@ -35,6 +35,9 @@
           <mxGeometry x="270" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-9" target="vssXqPWOVQydGvbCdSsN-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vssXqPWOVQydGvbCdSsN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-9" target="vssXqPWOVQydGvbCdSsN-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-9" value="拥塞梯度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -63,6 +66,11 @@
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-18" value="线长 -- 密度 -- 拥塞三目标&lt;span style=&quot;background-color: initial;&quot;&gt;优&lt;/span&gt;&lt;div&gt;&lt;div&gt;化全局布局&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="140" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vssXqPWOVQydGvbCdSsN-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="370.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-26" value="Nesterov迭代优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="300" width="200" height="40" as="geometry" />
