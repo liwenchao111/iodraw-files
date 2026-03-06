@@ -17,10 +17,10 @@
           <mxGeometry x="140" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-8" value="密度梯度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="200" width="80" height="40" as="geometry" />
+          <mxGeometry x="270" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-9" value="拥塞梯度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-16" value="建立静电系统，泊松方程&lt;div&gt;求解拥塞梯度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="200" width="200" height="40" as="geometry" />
