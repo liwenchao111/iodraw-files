@@ -101,8 +101,8 @@
             <mxPoint x="531" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vssXqPWOVQydGvbCdSsN-56" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="230" width="60" height="30" as="geometry" />
+        <mxCell id="vssXqPWOVQydGvbCdSsN-56" value="拥塞梯度更新算法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="190" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
