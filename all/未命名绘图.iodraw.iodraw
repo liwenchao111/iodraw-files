@@ -91,6 +91,9 @@
         <mxCell id="vssXqPWOVQydGvbCdSsN-59" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="259" y="406" width="60" height="19" as="geometry" />
         </mxCell>
+        <mxCell id="vssXqPWOVQydGvbCdSsN-60" value="添加拥塞项，转变为三目标优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
