@@ -49,9 +49,6 @@
         <mxCell id="vssXqPWOVQydGvbCdSsN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-9" target="vssXqPWOVQydGvbCdSsN-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vssXqPWOVQydGvbCdSsN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-9" target="vssXqPWOVQydGvbCdSsN-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-9" value="拥塞梯度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="220" width="80" height="40" as="geometry" />
         </mxCell>
@@ -60,9 +57,6 @@
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-16" value="建立静电系统，泊松方程&lt;div&gt;求解拥塞梯度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="220" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vssXqPWOVQydGvbCdSsN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-17" target="vssXqPWOVQydGvbCdSsN-9">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-17" value="二引脚线网梯度更新&lt;div&gt;多引脚单元梯度更新&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="280" width="200" height="40" as="geometry" />
@@ -90,7 +84,7 @@
           <mxGeometry x="215" y="359" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-44" value="全局布局结果输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="460" width="200" height="40" as="geometry" />
+          <mxGeometry x="210" y="450" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
