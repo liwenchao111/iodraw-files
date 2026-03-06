@@ -10,8 +10,8 @@
         <mxCell id="vssXqPWOVQydGvbCdSsN-2" value="输入 LEF/DEF 文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="20" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vssXqPWOVQydGvbCdSsN-3" value="添加拥塞项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="160" width="210" height="40" as="geometry" />
+        <mxCell id="vssXqPWOVQydGvbCdSsN-4" value="线长 -- 密度双目标优化全局布局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
