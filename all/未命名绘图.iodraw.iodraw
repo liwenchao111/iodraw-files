@@ -59,7 +59,7 @@
         <mxCell id="vssXqPWOVQydGvbCdSsN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-9" target="vssXqPWOVQydGvbCdSsN-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vssXqPWOVQydGvbCdSsN-9" value="&lt;b&gt;拥塞梯度&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="vssXqPWOVQydGvbCdSsN-9" value="&lt;b&gt;拥塞梯度&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#666666;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="400" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-16" target="vssXqPWOVQydGvbCdSsN-17">
