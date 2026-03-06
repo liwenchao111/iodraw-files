@@ -28,8 +28,8 @@
         <mxCell id="vssXqPWOVQydGvbCdSsN-17" value="二引脚线网梯度更新&lt;div&gt;多引脚单元梯度更新&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="280" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vssXqPWOVQydGvbCdSsN-18" value="线长 -- 密度双目标优化全局布局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="90" width="200" height="40" as="geometry" />
+        <mxCell id="vssXqPWOVQydGvbCdSsN-18" value="线长 -- 密度 -- 拥塞三目标&lt;span style=&quot;background-color: initial;&quot;&gt;优&lt;/span&gt;&lt;div&gt;&lt;div&gt;化全局布局&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
