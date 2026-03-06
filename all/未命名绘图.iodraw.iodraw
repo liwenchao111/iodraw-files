@@ -31,8 +31,8 @@
         <mxCell id="vssXqPWOVQydGvbCdSsN-16" value="建立静电系统，泊松方程&lt;div&gt;求解拥塞梯度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="150" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vssXqPWOVQydGvbCdSsN-17" value="建立静电系统，泊松方程&lt;div&gt;求解拥塞梯度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="160" width="200" height="40" as="geometry" />
+        <mxCell id="vssXqPWOVQydGvbCdSsN-17" value="二引脚线网梯度更新/&lt;div&gt;多引脚单元梯度更新&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="230" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
