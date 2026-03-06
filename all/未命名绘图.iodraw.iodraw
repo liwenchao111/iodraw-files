@@ -7,6 +7,9 @@
         <mxCell id="vssXqPWOVQydGvbCdSsN-1" value="线长 -- 密度双目标优化全局布局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="80" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vssXqPWOVQydGvbCdSsN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-2" target="vssXqPWOVQydGvbCdSsN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-2" value="输入 LEF/DEF 文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="10" width="200" height="40" as="geometry" />
         </mxCell>
@@ -14,7 +17,7 @@
           <mxGeometry x="540" y="120" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-6" value="线长梯度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="200" width="80" height="40" as="geometry" />
+          <mxGeometry x="140" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-8" value="密度梯度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="220" width="80" height="40" as="geometry" />
