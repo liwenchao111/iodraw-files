@@ -73,6 +73,9 @@
         <mxCell id="vssXqPWOVQydGvbCdSsN-26" value="Nesterov迭代优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="300" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vssXqPWOVQydGvbCdSsN-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-41" target="vssXqPWOVQydGvbCdSsN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-41" value="可布线性收敛" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="370" width="190" height="40" as="geometry" />
         </mxCell>
