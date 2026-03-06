@@ -14,10 +14,20 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-1" target="vssXqPWOVQydGvbCdSsN-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="180" />
+              <mxPoint x="440" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-1" target="vssXqPWOVQydGvbCdSsN-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="180" />
+              <mxPoint x="180" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-1" value="线长 -- 密度双目标优化全局布局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="80" width="200" height="40" as="geometry" />
