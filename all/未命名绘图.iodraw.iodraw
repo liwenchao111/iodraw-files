@@ -86,7 +86,7 @@
         <mxCell id="vssXqPWOVQydGvbCdSsN-44" value="全局布局结果输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="450" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vssXqPWOVQydGvbCdSsN-53" value="线长 -- 密度双目标优化全局布局" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vssXqPWOVQydGvbCdSsN-53" value="线长 -- 密度-- 拥塞三目标优化&lt;div&gt;全局布局&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="536" y="150" width="174" height="30" as="geometry" />
         </mxCell>
       </root>
