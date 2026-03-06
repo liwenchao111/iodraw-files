@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-2" value="输入 LEF/DEF 文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="10" width="200" height="40" as="geometry" />
+          <mxGeometry x="210" y="13" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-4" value="启动布线器获取拥塞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="120" width="200" height="40" as="geometry" />
