@@ -16,6 +16,9 @@
         <mxCell id="vssXqPWOVQydGvbCdSsN-2" value="输入 LEF/DEF 文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="20" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vssXqPWOVQydGvbCdSsN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-4" target="vssXqPWOVQydGvbCdSsN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-4" value="启动布线器获取拥塞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="120" width="200" height="40" as="geometry" />
         </mxCell>
@@ -40,8 +43,14 @@
         <mxCell id="vssXqPWOVQydGvbCdSsN-9" value="拥塞梯度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="220" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vssXqPWOVQydGvbCdSsN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-16" target="vssXqPWOVQydGvbCdSsN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-16" value="建立静电系统，泊松方程&lt;div&gt;求解拥塞梯度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vssXqPWOVQydGvbCdSsN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="vssXqPWOVQydGvbCdSsN-17" target="vssXqPWOVQydGvbCdSsN-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vssXqPWOVQydGvbCdSsN-17" value="二引脚线网梯度更新&lt;div&gt;多引脚单元梯度更新&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="280" width="200" height="40" as="geometry" />
